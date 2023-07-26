@@ -1,1 +1,1 @@
-# CS50
+# Python learning notes 
